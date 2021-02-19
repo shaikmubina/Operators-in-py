@@ -1,4 +1,4 @@
-# Operators-in-py
+# Operators.py
 import math
 import os
 import random
